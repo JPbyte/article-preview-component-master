@@ -32,8 +32,8 @@ Desktop design
 
 ### Links
 
-- Solution URL: [Article preview component solution](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Article preview component solution](https://www.frontendmentor.io/solutions/article-preview-component-solution--RM8shvUt9)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/article-preview-component-master/)
 
 ## My process
 
